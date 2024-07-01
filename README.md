@@ -6,7 +6,8 @@ This is a clone of a modern landing page using React and enhanced with animation
 The goal is to replicate the visual and interactive elements of the original landing page and refine my frontend development skills
 
 Deployed project link-https://refokus-clone-brown.vercel.app
-original landing page- https://www.refokus.com/work
+
+Original landing page- https://www.refokus.com/work
 
 
 
