@@ -1,3 +1,15 @@
+
+
+# REFOKUS CLONE
+
+This is a clone of a modern landing page using React and enhanced with animations using Framer Motion. 
+The goal is to replicate the visual and interactive elements of the original landing page and refine my frontend development skills
+
+
+original landing page- https://www.refokus.com/work
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -9,5 +21,7 @@ Currently, two official plugins are available:
 
 
 
-This is a clone of a modern landing page using React and enhance it with animations using Framer Motion. 
-The goal is to replicate the visual and interactive elements of the original landing page and refine my frontend development skills
+
+
+
+
