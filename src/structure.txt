@@ -1,0 +1,12 @@
+APP
+        NAVBAR
+            BUTTON COMPONENT
+        WORK
+        STRIPES
+            STRIPE
+        PRODUCTS 
+            PRODUCT
+        MARQUEE
+        BLOCKS
+                BLOCK
+        FOOTER
